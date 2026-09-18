@@ -112,11 +112,14 @@ World-Development-Clustering/
 │   └── 03_Clustering_Model.ipynb
 
 │
-├── kmeans_model.pkl
+
+├── Clustering deployment.py
+
+├── Clustering_model.pkl
 
 ├── scaler.pkl
 
-├── app.py
+├── features.pkl
 
 ├── requirements.txt
 
