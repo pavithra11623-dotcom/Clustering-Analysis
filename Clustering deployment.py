@@ -65,7 +65,7 @@ if st.button("Predict Cluster"):
 
     cluster_meanings = {
         0: "Low development / higher risk group",
-        1: "Moderate development group",
+        1: "Moderate development / Medium risk group",
         2: "High development / lower risk group"
     }
 
